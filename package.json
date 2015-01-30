@@ -1,0 +1,16 @@
+{
+  "name": "the-node-beginner-book",
+  "version": "1.0.0",
+  "description": "Select a local PNG image from your harddrive, uploade it to the server, and have it displayed in a web page",
+  "main": "index.js",
+  "dependencies": {
+    "formidable": "^1.0.16"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "author": "Carlos E. Avila",
+  "license": "ISC"
+}
